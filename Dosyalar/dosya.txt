@@ -1,0 +1,3 @@
+Kaan KAYACAN,100,100,100
+Arda GÜLER,10,10,10
+Görkem Tekinhatun,10,10,20
